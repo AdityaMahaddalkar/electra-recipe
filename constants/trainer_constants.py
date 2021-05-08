@@ -1,0 +1,3 @@
+SELECTED_MODEL = 'electra_base'
+EPOCHS = 20
+BATCH_SIZE = 128
