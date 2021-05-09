@@ -1,5 +1,5 @@
 import tensorflow_hub
-
+import tensorflow_text as text
 import constants.trainer_constants
 from constants.model_choices import map_name_to_handle, map_model_to_preprocess
 
